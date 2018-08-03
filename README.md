@@ -14,14 +14,16 @@ Summary: Functions to manipulate binary fingerprints of arbitrary length. A fing
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-fingerprint-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-fingerprint-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-fingerprint-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-fingerprint-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-fingerprint-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-fingerprint-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-fingerprint-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-fingerprint-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-fingerprint-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-fingerprint-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-fingerprint-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-fingerprint-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-fingerprint/badges/version.svg)](https://anaconda.org/conda-forge/r-fingerprint)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-fingerprint/badges/downloads.svg)](https://anaconda.org/conda-forge/r-fingerprint)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--fingerprint-green.svg)](https://anaconda.org/conda-forge/r-fingerprint) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-fingerprint.svg)](https://anaconda.org/conda-forge/r-fingerprint) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-fingerprint.svg)](https://anaconda.org/conda-forge/r-fingerprint) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-fingerprint.svg)](https://anaconda.org/conda-forge/r-fingerprint) |
 
 Installing r-fingerprint
 ========================
